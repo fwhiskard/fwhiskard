@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @fwhiskard
-- 👀 I’m interested in ... Movies, music, food, travel, cooking, photography
+- 👀 I’m interested in ... Software Development, Data Science
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Anything
-- 📫 How to reach me ... fwhiskard@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Has a collection of over 300 Blu-rays 
+- 📫 You can reach me on LinkedIn ... linkedin.com/in/fraser-whiskard
 
 <!---
 fwhiskard/fwhiskard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
